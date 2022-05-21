@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "6cfhlGY8hw4oXzaRUdKUxNcrJ6K1AUa7F/bk32ps5HQ=",
+  "Source": "CUFETestTask.API",
+  "BasePath": "_content/CUFETestTask.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
